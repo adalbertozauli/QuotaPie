@@ -1,5 +1,7 @@
 # QuotaPie
 
+![QuotaPie — Cotas de IA na barra de menus](docs/images/quotapie-readme-hero.png)
+
 Monitor de cotas de **Codex e Claude Code** na barra de menus do macOS. Exibe utilização, horários de renovação, histórico e alertas opcionais em uma interface nativa SwiftUI/AppKit.
 
 Projeto independente, sem afiliação com OpenAI ou Anthropic. A interface também usa o nome **AI Usage Monitor**.
