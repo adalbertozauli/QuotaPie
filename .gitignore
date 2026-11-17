@@ -1,0 +1,35 @@
+# Build products and installer assets (publish through GitHub Releases)
+/build/
+/dist/
+DerivedData/
+*.xcarchive
+*.xcresult
+*.profraw
+*.profdata
+
+# Xcode and macOS user state
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+
+# Original artwork and internal validation records
+/Imagens/
+/docs/validation/
+/docs/BUILD_RESULT.md
+/docs/IMPLEMENTATION_REPORT.md
+/docs/CLAUDE_ALTERNATIVES.md
+/docs/PROVIDER_RESEARCH.md
+/docs/PREMIUM_REDESIGN.md
+
+# Local assistant settings
+.codex/
+.agents/
